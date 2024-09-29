@@ -8,7 +8,7 @@ const usermolde = require('../models/usermolde');
 
 
 
-router.get('/user', user)
+router.get('/', user)
 
 router.post('/register',register)
 
