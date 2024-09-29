@@ -4,7 +4,7 @@ const router = require("../routes/userroute");
 const Errorhandler = require("../utils/Errorhandler");
 
 exports.user = (req, res) => {
-    res.send('Hello from user fd kjvnxk xc route');
+    res.send('hello i am badal golwalker');
 }
 
 
