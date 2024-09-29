@@ -1,0 +1,115 @@
+[
+    {
+      
+      "bookName": "Harry Potter and the Philosopher's Stone",
+      "category": "Fantasy",
+      "rentPerDay": 10
+    },
+    {
+             "bookName": "The Great Gatsby",
+      "category": "Classic",
+      "rentPerDay": 8
+    },
+    {
+             "bookName": "To Kill a Mockingbird",
+      "category": "Drama",
+      "rentPerDay": 7
+    },
+    {
+             "bookName": "1984",
+      "category": "Dystopian",
+      "rentPerDay": 9
+    },
+    {
+             "bookName": "The Lord of the Rings",
+      "category": "Fantasy",
+      "rentPerDay": 12
+    },
+    {
+             "bookName": "The Catcher in the Rye",
+      "category": "Classic",
+      "rentPerDay": 6
+    },
+    {
+             "bookName": "Moby Dick",
+      "category": "Adventure",
+      "rentPerDay": 11
+    },
+    {
+             "bookName": "Pride and Prejudice",
+      "category": "Romance",
+      "rentPerDay": 5
+    },
+    {
+             "bookName": "The Alchemist",
+      "category": "Philosophy",
+      "rentPerDay": 10
+    },
+
+    {
+       
+      "bookName": "The Hunger Games",
+      "category": "Dystopian",
+      "rentPerDay": 9
+    },
+    {
+       
+      "bookName": "The Chronicles of Narnia",
+      "category": "Fantasy",
+      "rentPerDay": 8
+    },
+    {
+       
+      "bookName": "Brave New World",
+      "category": "Dystopian",
+      "rentPerDay": 9
+    },
+    {
+       
+      "bookName": "Jane Eyre",
+      "category": "Classic",
+      "rentPerDay": 7
+    },
+    {
+       
+      "bookName": "Wuthering Heights",
+      "category": "Classic",
+      "rentPerDay": 6
+    },
+    {
+       
+      "bookName": "The Kite Runner",
+      "category": "Drama",
+      "rentPerDay": 10
+    },
+    {
+       
+      "bookName": "The Book Thief",
+      "category": "Historical",
+      "rentPerDay": 8
+    },
+    {
+       
+      "bookName": "Frankenstein",
+      "category": "Horror",
+      "rentPerDay": 7
+    },
+    {
+       
+      "bookName": "Dracula",
+      "category": "Horror",
+      "rentPerDay": 8
+    },
+    {
+       
+      "bookName": "The Hobbit",
+      "category": "Fantasy",
+      "rentPerDay": 10
+    },
+    {
+       
+      "bookName": "Anna Karenina",
+      "category": "Classic",
+      "rentPerDay": 11
+    }
+  ]
